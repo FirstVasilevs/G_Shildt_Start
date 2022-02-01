@@ -1,7 +1,7 @@
-package Task_01;
+package Chapter_01.Task_01;
 /*
 Это пример простой программы на Java.
-Присвойте файлу с исходным кодом имя Task_01.Example.java.
+Присвойте файлу с исходным кодом имя Chapter_01.Task_01.Example.java.
 */
 public class Example {
 
