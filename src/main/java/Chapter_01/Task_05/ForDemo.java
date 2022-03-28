@@ -13,5 +13,6 @@ public class ForDemo {
         for (count = 0; count < 5; count++)
             System.out.println("Значение счетчика: " + count);
         System.out.println("Готово!");
+
     }
 }
